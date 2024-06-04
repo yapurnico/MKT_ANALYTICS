@@ -76,8 +76,9 @@ Leaving the blank values out of the analysis, 68% of our calls are being complet
 
 - Github:   
     [ver Github](https://github.com/yapurnico/MKT_ANALYTICS)
-- Dashboards (PowerBi/Looker):
+- Dashboard PowerBi:
     [PBI Dashboard](https://drive.google.com/drive/folders/10FfkGUc0230mWs3uLy-ri9xjpKw3Gv7p?usp=sharing)
+- Dashboard Looker:
     [Looker Dashboard](https://drive.google.com/drive/folders/10FfkGUc0230mWs3uLy-ri9xjpKw3Gv7p?usp=sharing)     
 - Video with Explanation:
     [Video](https://drive.google.com/drive/folders/10FfkGUc0230mWs3uLy-ri9xjpKw3Gv7p?usp=sharing)
