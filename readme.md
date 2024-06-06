@@ -79,4 +79,4 @@ Leaving the blank values out of the analysis, 68% of our calls are being complet
 - Dashboard Looker:
     [Looker Dashboard](https://lookerstudio.google.com/reporting/6bcd33ad-c2a7-4365-af7c-849009acba67)     
 - Video with Explanation:
-    [Video](https://drive.google.com/drive/folders/10FfkGUc0230mWs3uLy-ri9xjpKw3Gv7p?usp=sharing)
+    [Video](https://drive.google.com/file/d/1iqldc6EbVrUmgZyqZ6lRrV6FYE7OxDkh/view?usp=sharing)
