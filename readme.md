@@ -2,7 +2,7 @@
 
 # MKT Analytics Report
 
-## Índice
+## Index
 
 - About
 - ETL
@@ -14,7 +14,7 @@ This is a CRM data analysis project. The task consists of analyzing and building
 
 ## ETL
 
-The ETL was performed over a .xlsx file named "test_analysis.xlsx" and the result is a transformed xlsx file named "test_analysis_etl.xlsx" ans a transformed csv file named "test_analysis_etc.csv". Heere are the ETL Insights and Conclusions:
+The ETL was performed over a .xlsx file named "test_analysis.xlsx" in python and the result is a transformed xlsx file named "test_analysis_etl.xlsx" ans a transformed csv file named "test_analysis_etc.csv". Heere are the ETL Insights and Conclusions:
 
 ### Dataset Errors:
 
